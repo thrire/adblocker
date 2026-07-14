@@ -3010,7 +3010,6 @@
 ||adeservive.ussl.co.il^
 ||adesiimpad.rest^
 ||adetracking.com^
-||adeventtracker.spotify.com^
 ||adexc.net^
 ||adexchangedirect.com^
 ||adexchangegate.com^
@@ -3816,13 +3815,11 @@
 ||ads.glasove.com^
 ||ads.gld.dk^
 ||ads.globescale.com^
-||ads.globo.com^
 ||ads.gmodules.com^
 ||ads.gofuckyourself.com^
 ||ads.gold^
 ||ads.golfweek.com^
 ||ads.goodreads.com^
-||ads.google.com^
 ||ads.gorillanation.com^
 ||ads.gosu.vn^
 ||ads.goyk.com^
@@ -3884,7 +3881,6 @@
 ||ads.imagistica.com^
 ||ads.imarketservices.com^
 ||ads.imeem.com^
-||ads.img.globo.com^
 ||ads.imguol.com^
 ||ads.imgur.com^
 ||ads.indeed.com^
@@ -4868,18 +4864,6 @@
 ||adserversolutions.com^
 ||adserverus.info^
 ||adserverxxl.de^
-||adservice.aliexpress.com^
-||adservice.google.be^
-||adservice.google.ca^
-||adservice.google.co.in^
-||adservice.google.co.jp^
-||adservice.google.co.za^
-||adservice.google.com^
-||adservice.google.com.au^
-||adservice.google.com.mt^
-||adservice.google.com.vn^
-||adservice.google.cz^
-||adservice.google.nl^
 ||adservice.tohsoft.com^
 ||adservices.brandcdn.com^
 ||adserving.autotrader.com^
@@ -6678,7 +6662,6 @@
 ||analytics.directenergy.ca^
 ||analytics.directenergy.com^
 ||analytics.discountpowertx.com^
-||analytics.disneyplus.com^
 ||analytics.dspunion.com^
 ||analytics.edgekey.net^
 ||analytics.eleague.com^
@@ -7482,7 +7465,6 @@
 ||app.adsbrook.com^
 ||app.adviad.com^
 ||app.aflink.com^
-||app.appleadwords.net^
 ||app.appzcvb.com^
 ||app.beanstalkdata.com^
 ||app.bugfender.com^
@@ -9570,7 +9552,6 @@
 ||beacon.gutefrage.net^
 ||beacon.livefyre.com^
 ||beacon.my.salesforce.com^
-||beacon.netflix.com^
 ||beacon.qq.com^
 ||beacon.quiltmc.org^
 ||beacon.rallydev.com^
@@ -10371,7 +10352,6 @@
 ||bindedge.com^
 ||bindfast.com^
 ||binealefkosa.com^
-||bingads.microsoft.com^
 ||bingoblitz.shop^
 ||binmom.com^
 ||binoa.com^
@@ -11598,7 +11578,6 @@
 ||browser-http-intake.logs.datadoghq.eu^
 ||browser-intake-datadoghq.com^
 ||browser-tools.systems^
-||browser.pipe.aria.microsoft.com^
 ||browseraccelerator.com^
 ||browsergames2018.com^
 ||browsergames2019.com^
@@ -16154,7 +16133,6 @@
 ||customalls.com^
 ||customer.cludo.com^
 ||customerassistteam.im^
-||customerevents.netflix.com^
 ||customerretentionsystempt.pro^
 ||customers-lidl.kameleoon.com^
 ||customers.fptad.com^
@@ -16734,7 +16712,6 @@
 ||datamavric.site^
 ||dataone.dsdamatfirsatcadiri.com^
 ||dataparallaxhub.digital^
-||datarouter.ol.epicgames.com^
 ||datasciencelabcx.pro^
 ||datastreamflowqx.pro^
 ||datasyncpulse.digital^
@@ -23408,8 +23385,6 @@
 ||g.koowo.com^
 ||g.promosrv.com^
 ||g.s.360.cn^
-||g1-globo.com-b4.info^
-||g1-globosaude.com^
 ||g1.idg.pl^
 ||g1xqme.site^
 ||g2.072m.com^
@@ -27829,7 +27804,6 @@
 ||ichferkens.de^
 ||ichgcp.com^
 ||ichisushi.fr^
-||ichnaea-web.netflix.com^
 ||ichy.link^
 ||icipourtoi.com^
 ||icityfind.com^
@@ -33475,7 +33449,6 @@
 ||logs.hotstar.com^
 ||logs.ironsrc.mobi^
 ||logs.loggly.com^
-||logs.netflix.com^
 ||logs.psm.wmcdp.io^
 ||logs.roku.com^
 ||logs.sanchoikns.vn^
@@ -35545,7 +35518,6 @@
 ||metrics.homebase.co.uk^
 ||metrics.hoovers.com^
 ||metrics.hrblock.com^
-||metrics.icloud.com^
 ||metrics.iconfitness.com^
 ||metrics.ikea.com^
 ||metrics.ilsole24ore.com^
@@ -36138,7 +36110,6 @@
 ||mobile.eum-appdynamics.com^
 ||mobile.measurelib.com^
 ||mobile.parkandpay-ca.com^
-||mobile.pipe.aria.microsoft.com^
 ||mobile.visc.top^
 ||mobile.webvisor.com^
 ||mobilead.vn^
@@ -38140,7 +38111,6 @@
 ||nmetrics.samsung.com^
 ||nmmonoperating.info^
 ||nms-stmichael.at^
-||nmtracking.netflix.com^
 ||nnavigo.fr^
 ||nnoernvcoiervervew.com^
 ||no-bull-deutschland.de^
@@ -41957,7 +41927,6 @@
 ||pixel-a.sitescout.com^
 ||pixel-geo.prfct.co^
 ||pixel-secure.solvemedia.com^
-||pixel-static.spotify.com^
 ||pixel-sync.sitescout.com^
 ||pixel.adacado.com^
 ||pixel.adcrowd.com^
@@ -41969,7 +41938,6 @@
 ||pixel.coccoc.com^
 ||pixel.condenastdigital.com^
 ||pixel.crosspixel.net^
-||pixel.facebook.com^
 ||pixel.innocom.vn^
 ||pixel.invitemedia.com^
 ||pixel.keywee.co^
@@ -41983,7 +41951,6 @@
 ||pixel.sitescout.com^
 ||pixel.sojern.com^
 ||pixel.solvemedia.com^
-||pixel.spotify.com^
 ||pixel.staticworld.net^
 ||pixel.watch^
 ||pixel.wp.com^
@@ -42980,7 +42947,6 @@
 ||pmnff.com^
 ||pmoamultipurposecooperative.com^
 ||pmpkp.com^
-||pmstrk.mercadolivre.com.br^
 ||pmtinnova.com^
 ||pmtree.handproof.rest^
 ||pn99.cc^
@@ -47682,7 +47648,6 @@
 ||sanalytics.chilevision.cl^
 ||sanalytics.cnfanart.com^
 ||sanalytics.cnnchile.com^
-||sanalytics.disneyplus.com^
 ||sanalytics.enterprise.spectrum.com^
 ||sanalytics.ewz.ch^
 ||sanalytics.express.de^
@@ -55647,7 +55612,6 @@
 ||tracking.dtiserv2.com^
 ||tracking.edvisors.com^
 ||tracking.engagedigitalmedia.com^
-||tracking.epicgames.com^
 ||tracking.everydayhealth.com^
 ||tracking.fado.vn^
 ||tracking.fanbridge.com^
@@ -57533,7 +57497,6 @@
 ||v1.addthisedge.com.edgekey.net^
 ||v1.cnzz.com^
 ||v1.viayonetici.com^
-||v10c.events.data.microsoft.com^
 ||v16.56.com^
 ||v1adserver.com^
 ||v1nt3dcompletepage.icu^
@@ -59495,7 +59458,6 @@
 ||web.survey-poll.com^
 ||web.tyrioncapital.live^
 ||web.unltd.info^
-||web.vortex.data.microsoft.com^
 ||web1.affiliatelounge.com^
 ||web123.webhotelli.fi^
 ||web13741.cweb05.gamingcontrol.de^
@@ -60194,7 +60156,6 @@
 ||wkmg.co.kr^
 ||wkwkqos.cfd^
 ||wkxcpr.site^
-||wl.spotify.com^
 ||wlaserv.minerconstructo.com^
 ||wldez.com^
 ||wleve.cyou^
@@ -63898,8 +63859,6 @@
 ||log.fc.yahoo.com^
 ||appmetrica.yandex.ru^
 ||metrika.yandex.ru^
-||api-adservices.apple.com^
-||books-analytics-events.apple.com^
 ||data.mistat.india.xiaomi.com^
 ||data.mistat.rus.xiaomi.com^
 ||metrics.data.hicloud.com^
@@ -63922,22 +63881,8 @@
 ||bnc.lt^
 ||clevertap-prod.com^
 ||mineralt.io^
-||connect.facebook.net^
-||graph.facebook.com^
-||tr.facebook.com^
-||graph.instagram.com^
-||i.instagram.com^
-||ads-api.x.com^
-||ads.x.com^
-||d.reddit.com^
-||pixel.quora.com^
-||px.srvcs.tumblr.com^
 ||ads.vk.com^
 ||vk.com/rtrg^
-||xp.apple.com^
-||vortex.data.microsoft.com^
-||mads-eu.amazon.com^
-||ads.roku.com^
 ||cookiebot.com^
 ||consent.trustarc.com^
 ||sdk.privacy-center.org^
@@ -63956,18 +63901,10 @@
 ||ironSource.mobi^
 ||2giga.link^
 ||greatis.com^
-||affiliationjs.s3.amazonaws.com^
-||advertising-api-eu.amazon.com^
-||analytics.facebook.com^
-||ads.facebook.com^
-||advertising.twitter.com^
-||widgets.pinterest.com^
 ||appmetrica.yandex.com^
 ||metrics1.data.hicloud.com^
 ||metrics5.data.hicloud.com^
 ||metrics-dra.dt.hicloud.com^
-||business.samsungusa.com^
-||supportmetrics.apple.com^
 ||youth4disarmament.org^
 ||deborahbfotografia.it^
 ||gebaeudeservice-jekosch.de^
