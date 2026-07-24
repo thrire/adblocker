@@ -14186,7 +14186,6 @@
 ||click.crm.ba.com^
 ||click.dealshark.com^
 ||click.digital.metaquestmail.com^
-||click.discord.com^
 ||click.dtiserv2.com^
 ||click.duga.jp^
 ||click.e.bbcmail.co.uk^
